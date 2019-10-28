@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.inanlarpremium.com/</loc>
+  <lastmod>2019-10-28T10:11:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.inanlarpremium.com/index.html</loc>
+  <lastmod>2019-10-28T10:11:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.inanlarpremium.com/hakkimizda.html</loc>
+  <lastmod>2019-10-28T10:11:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.inanlarpremium.com/suit-ve-villa.html</loc>
+  <lastmod>2019-10-28T10:11:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.inanlarpremium.com/fotograflar.html</loc>
+  <lastmod>2019-10-28T10:11:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.inanlarpremium.com/uzungol.html</loc>
+  <lastmod>2019-10-28T10:11:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.inanlarpremium.com/iletisim.html</loc>
+  <lastmod>2019-10-28T10:11:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.inanlarpremium.com/en/index.html</loc>
+  <lastmod>2019-10-28T10:11:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.inanlarpremium.com/en/about-us.html</loc>
+  <lastmod>2019-10-28T10:11:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.inanlarpremium.com/en/suites-and-villas.html</loc>
+  <lastmod>2019-10-28T10:11:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.inanlarpremium.com/en/photos.html</loc>
+  <lastmod>2019-10-28T10:11:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.inanlarpremium.com/en/uzungol.html</loc>
+  <lastmod>2019-10-28T10:11:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.inanlarpremium.com/en/contact-us.html</loc>
+  <lastmod>2019-10-28T10:11:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
