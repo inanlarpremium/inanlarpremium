@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Site haritasý: https://www.inanlarpremium.com/sitemap.xml
