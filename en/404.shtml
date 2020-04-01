@@ -117,12 +117,12 @@
                     </nav>
                     <div class="menu-bottom">
                     	<div class="text-center">
-                            <a href="https://facebook.com/inanlarpremium"><i class="fa fa-facebook-square"></i></a>
-                            <a href="https://twitter.com/inanlarpremium"><i class="fa fa-twitter"></i></a>
-                            <a href="https://instagram.com/inanlarpremium"><i class="fa fa-instagram"></i></a>
+                            <a href="https://instagram.com/inanlarpremium" rel="nofollow"><i class="fa fa-instagram"></i></a>
+                            <a href="https://facebook.com/inanlarpremium" rel="nofollow"><i class="fa fa-facebook-square"></i></a>
+                            <a href="https://twitter.com/inanlarpremium" rel="nofollow"><i class="fa fa-twitter"></i></a>
                         </div>
                         <div class="margin-10"></div>
-                        <p><span class="text-white"><a href="https://uzungol.net">Uzungöl</a> İnanlar Premium</span> </p>
+                        <p><span class="text-white"><a href="https://uzungol.net" rel="dofollow">Uzungöl</a> İnanlar Premium</span> </p>
                     </div>
         		</div><!-- .menu-inner -->
             </div><!-- .menu-container -->
